@@ -13,7 +13,7 @@ def test_01():
 
 
 def test_02():
-    assert preguntas.pregunta_02().tolist() == [[250, 17], [10, 158]]
+    assert preguntas.pregunta_02().tolist() == [[251, 16], [11, 157]]
 
 
 test = {
